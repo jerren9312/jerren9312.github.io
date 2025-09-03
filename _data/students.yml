@@ -44,6 +44,18 @@
   education4:
   url: TM_IU
 
+- name: Mingwei Lei
+  photo: bio-photo.jpg
+  duration: joined in 2024
+  info: PhD Student
+  email: mingwei.lei@UND.edu
+  number_educ: 2
+  education1: Msc, XXX
+  education2: BSc, XXX
+  education3:
+  education4:
+  url: TM_ML
+
 - name: Bruno Saidou Fonkeng
   photo: ava_BF.jpeg
   duration: joined in 2023
