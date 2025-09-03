@@ -41,9 +41,6 @@ permalink: /
   </a>
 </div>
 
-We are a dynamic research group in the [School of Electrical Engineering & Computer Science](https://engineering.und.edu/academics/electrical-and-computer-science/index.html) at the [University of North Dakota](http://und.edu). 
-
-
 
 <!--
 <figure class="fourth">
