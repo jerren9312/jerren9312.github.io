@@ -10,7 +10,7 @@ permalink: /TM_IU/
 
 ### Ifiok Udoidiok
 
-M.S. Student
+Ph.D. Student
 
 School of Electrical & Computer Engineering
 
