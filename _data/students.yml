@@ -11,23 +11,35 @@
 - name: Mohammad Ali
   photo: ava_MA.JPG
   duration: joined in 2023
-  info: Master Student
+  info: PhD Student
   email: ash.ali@UND.edu
-  number_educ: 1
-  education1: BSc, University of Dayton
-  education2:
+  number_educ: 2
+  education1: Msc, University of North Dakota
+  education2: BSc, University of Dayton
   education3:
   education4:
   url: TM_MA
+
+- name: Daniel Perez Fiadzeawu
+  photo: bio-photo.jpg
+  duration: joined in 2024
+  info: PhD Student
+  email: daniel.fiadzeawu@und.edu
+  number_educ: 2
+  education1: MSc, Loughborough University, UK
+  education2: BSc, Ghana Technology University College, Ghana
+  education3: 
+  education4:
+  url: TM_DF
 
 - name: Ifiok Udoidiok
   photo: ava_IU.png
   duration: joined in 2023
   info: Master Student
   email: ifiok.udoidiok@UND.edu
-  number_educ: 1
-  education1: BEng, Bells University, Nigeria
-  education2:
+  number_educ: 2
+  education1: Msc, University of North Dakota
+  education2: BEng, Bells University, Nigeria
   education3:
   education4:
   url: TM_IU
@@ -55,3 +67,4 @@
   education3: BSc, University of Utah
   education4:
   url: TM_CS
+
