@@ -209,14 +209,14 @@ permalink: /team/
 ### Lab Alumni
 <div class="row">
 
-<div class="col-sm-8 clearfix">
+<div class="col-sm-11 clearfix">
 <h4>Postdoc Fellows/Visitors</h4>
 {% for member in site.data.alumni_visitors %}
 {{ member.name }}
 {% endfor %}
 </div>
 
-<div class="col-sm-8 clearfix">
+<div class="col-sm-11 clearfix">
 <h4>Graduate Students</h4>
 {% for member in site.data.alumni_msc %}
 {{ member.name }}
