@@ -32,17 +32,17 @@
   education4:
   url: TM_DF
 
-- name: Ifiok Udoidiok
-  photo: ava_IU.png
-  duration: joined in 2023
-  info: PhD Student
-  email: ifiok.udoidiok@UND.edu
-  number_educ: 2
-  education1: Msc, University of North Dakota
-  education2: BEng, Bells University, Nigeria
-  education3:
-  education4:
-  url: TM_IU
+#- name: Ifiok Udoidiok
+#  photo: ava_IU.png
+#  duration: joined in 2023
+#  info: PhD Student
+#  email: ifiok.udoidiok@UND.edu
+#  number_educ: 2
+#  education1: Msc, University of North Dakota
+#  education2: BEng, Bells University, Nigeria
+#  education3:
+#  education4:
+#  url: TM_IU
 
 - name: Mingwei Lei
   photo: bio-photo.jpg
