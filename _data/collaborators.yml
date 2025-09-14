@@ -8,14 +8,26 @@
 #  education3:
 #  education4:
 
-- name: Fuhao Li, Ph.D.
-  photo: ava_FL.png
-  duration: joined in 2024
-  info: Research Associate
-  email: fuhaoli@ieee.org
-  number_educ: 3
-  education1: PhD, University of Dayton
-  education2: MSc, University of Dayton
-  education3: BSc, Dalian Jiaotong University, China
+- name: Ifiok Udoidiok
+  photo: ava_IU.png
+  duration: joined in 2023
+  info: Research Assistant
+  email: ifiok.udoidiok@UND.edu
+  number_educ: 2
+  education1: Msc, University of North Dakota
+  education2: BEng, Bells University, Nigeria
+  education3:
   education4:
-  url: CL_FL
+  url: TM_IU
+
+#- name: Fuhao Li, Ph.D.
+#  photo: ava_FL.png
+#  duration: joined in 2024
+#  info: Research Associate
+#  email: fuhaoli@ieee.org
+#  number_educ: 3
+#  education1: PhD, University of Dayton
+#  education2: MSc, University of Dayton
+#  education3: BSc, Dalian Jiaotong University, China
+#  education4:
+#  url: CL_FL
