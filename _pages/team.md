@@ -206,18 +206,18 @@ permalink: /team/
 {% endif %}
 
 
-### Alumni
+### Lab Alumni
 <div class="row">
 
 <div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
+<h4>Postdoc Fellows</h4>
 {% for member in site.data.alumni_visitors %}
 {{ member.name }}
 {% endfor %}
 </div>
 
 <div class="col-sm-4 clearfix">
-<h4>Master students</h4>
+<h4>Graduate Students</h4>
 {% for member in site.data.alumni_msc %}
 {{ member.name }}
 {% endfor %}
