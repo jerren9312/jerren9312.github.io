@@ -47,5 +47,5 @@ Attackers exploit human psychology: curiosity, urgency, trust in authority, or f
 **OSINT Abuse** — Collecting info from public sources (social media, job postings) to design targeted attacks.  
 
 **Conclusion**  
-The essence of social engineering is *exploiting human nature*. The key defense is to make “suspicion and verification” a routine, and protective measures a habit.
+The essence of social engineering is *exploiting human nature*. The key defense is to make “suspicion and verification” a routine, and protective measures a [habit](https://gggggg.mobi).
 ---
